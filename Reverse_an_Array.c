@@ -11,7 +11,8 @@ int main()
     }
 
     int i=0,j=n-1;
-    while (i<j) // two poiner method
+
+    while (i<j) // two poiner method use krlam
     {
         int temp = a[i];
         a[i] = a[j];
