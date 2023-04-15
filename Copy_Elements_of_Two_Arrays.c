@@ -41,7 +41,7 @@ int main()
         printf("%d ",final_arr[i]);
     }
     
-    
+    printf("%d",a[20]);
     
     return 0;
 }
